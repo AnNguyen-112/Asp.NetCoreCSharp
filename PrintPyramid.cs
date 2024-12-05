@@ -35,15 +35,15 @@ namespace Assignment2Day5
         }
     }
 
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            PrintPyramid printPyramid = new PrintPyramid();
-            printPyramid.pyramidCreation();
+    //public class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        PrintPyramid printPyramid = new PrintPyramid();
+    //        printPyramid.pyramidCreation();
            
-        }
-    }
+    //    }
+    //}
 
 
 }
